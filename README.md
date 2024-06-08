@@ -2,11 +2,11 @@
 This repository analyses car insurance claims, including the amount claimed, car models and usage, and customers' demographics.
 
 # Visualization
-The report contains 4 interactive pages
+The report contains 4 interactive pages:
 
 ![](https://github.com/Ratafar22/Car-Insurance-Claim-Analysis/blob/main/Car%20Insurance%20Claim_page-0001.jpg)
 ![](https://github.com/Ratafar22/Car-Insurance-Claim-Analysis/blob/main/Car%20Insurance%20Claim_page-0002.jpg)
-![]()
+![](https://github.com/Ratafar22/Car-Insurance-Claim-Analysis/blob/main/Car%20Insurance%20Claim_page-0003.jpg)
 ![]()
 
 # Report
